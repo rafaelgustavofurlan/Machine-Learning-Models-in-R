@@ -1,0 +1,9 @@
+Hi, here you can find some Machine Learning algotithms in R that I already faced in my professional life. In this respository, all codes are in R, but i'll create another one with the same algorthms in Python. 
+
+Sometimes, you'll find some codes with little modifications, because I needed to make some little updates, but the idea behind the code is there.
+
+All directories created, each for a specific algorithm, has the script in R and the example dataset that you can use.
+
+I hope you can use it.
+
+Thanks!
